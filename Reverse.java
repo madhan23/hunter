@@ -1,6 +1,6 @@
 import java.util.Scanner;
 import java.util.Arrays;
-class Reverseorder{
+class Reverse{
     public static void main(String args[]){
         String s;
         Scanner in=new Scanner(System.in);
